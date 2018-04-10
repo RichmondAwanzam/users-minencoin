@@ -9,14 +9,24 @@
 
 ## Run for Development
 
-Unzip the zip file users-minencoin.zip
+git clone https://github.com/RichmondAwanzam/users-minencoin.git
+
 change directory into users-minencoin
 cd /users-minencoin
+
 Run the following scripts
+
+
+Run the following scripts
+
 npm install =>to download all needed packages
+
 npm test =>to run all ui included test cases.
+
 npm start =>to start server in development mode;
+
 visit http://localhost:3000 if port 3000 was free else check your console for information on the port on which development server is running.
+
 ## Build and Deploy
  (Production)
 
