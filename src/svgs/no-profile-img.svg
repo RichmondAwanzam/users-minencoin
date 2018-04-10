@@ -1,0 +1,41 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-24352 -23271 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-iPhone_6_7_8_2);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        fill: #b4b4b4;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-iPhone_6_7_8_2">
+      <rect x="-24352" y="-23271" width="96" height="96"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_6_7_8_2" data-name="iPhone 6/7/8 – 2" class="cls-1">
+    <rect class="cls-3" x="-24352" y="-23271" width="96" height="96"/>
+    <g id="Rectangle_1785" data-name="Rectangle 1785" class="cls-2" transform="translate(-24330 -23249)">
+      <rect class="cls-4" width="54" height="52"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="53" height="51"/>
+    </g>
+    <g id="Group_1246" data-name="Group 1246" transform="translate(-24785 -23912)">
+      <path id="Path_3523" data-name="Path 3523" class="cls-3" d="M131.287,88.915a48.112,48.112,0,1,1-22.35,8.515,47.979,47.979,0,0,1,22.35-8.515m3.407,23.99a14.728,14.728,0,1,0,10.445,2.578,14.71,14.71,0,0,0-10.445-2.578m-9.163,32.161a14.353,14.353,0,0,0-9.089,4.072,14.2,14.2,0,0,0-4.3,10.428,1.055,1.055,0,0,0,2.085-.011,12.762,12.762,0,0,1,2.042-6.857,12.247,12.247,0,0,1,10.041-5.521q10.32-.013,20.641,0a12.241,12.241,0,0,1,9.791,5.174,12.721,12.721,0,0,1,2.283,7.213,1.057,1.057,0,0,0,2.085.02,14.358,14.358,0,0,0-14.44-14.549C139.621,145.055,132.575,144.992,125.531,145.067Z" transform="translate(344.375 552.381)"/>
+      <path id="Path_3524" data-name="Path 3524" class="cls-3" d="M223.364,180.341a12.589,12.589,0,1,1-10.614,8.5A12.575,12.575,0,0,1,223.364,180.341Z" transform="translate(256.313 487.016)"/>
+    </g>
+  </g>
+</svg>

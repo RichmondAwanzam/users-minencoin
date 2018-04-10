@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: #525050;
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #1a237e;
+  height: 135px;
+  padding: 10px 10px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+@media only screen and  (min-width:800px){
+  .app-auth-content{
+    margin: -50px auto 25px;
+  width: 55% !important;
+  background: #fff !important;
+
+  }
+}
+@media only screen and  (max-width:800px){
+.app-auth-content{
+  margin: -50px auto 25px;
+    width: 75% !important;
+    background: #fff !important;
+}
+}
+
+.app-auth-content{
+  margin: -50px auto 25px;
+  min-height: 450px;
+  border-radius: 3px;
+  box-shadow: 0 3px 10px #ccc;
+}
+.clearfix{
+  clear: both;
+}
+.profile-image{
+  border-radius: 50%;
+}
+.flex{
+  display: flex
+}
+.user-view{
+  padding: 10px 20px;
+  border-bottom: 1px inset #ccc;
+  text-align: left;
+}
+.user-detail{
+  padding: 8px 15px;
+}
+.app-font-size-primary{
+  font-size: 15px;
+}
+.app-font-size-sec{
+  font-size: 13px;
+}
+.float-right{
+  float: right;
+}
+.create-user-button{
+  border-radius: 30px !important;
+}
+.pointer{
+  cursor: pointer;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
